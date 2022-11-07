@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+/* FONT ROBOTO */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  @apply bg-gray-900 bg-app bg-no-repeat bg-cover;
+}
